@@ -1,0 +1,2 @@
+- This program creates 3 classes (the superclass being abstract).
+- And it shows how we can create collections (List-ArrayList) despite the superclass being abstract.
